@@ -1,0 +1,7 @@
+server:
+  port: 9099
+hbase:
+  zookeeper:
+    quorum: localhost
+    property:
+      clientPort: 2181
